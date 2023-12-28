@@ -30,4 +30,5 @@ if submit:
         print(chunk.text)
         print("_"*80)
 
-    st.write(chat.history)
+    for message in chat.history:    
+        st.text(f'**{message.role}**: {message.parts[0].text}')
