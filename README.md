@@ -63,6 +63,6 @@ The Gemini Multi-Mode App relies on the following Python libraries:
 ## Contributions
 Contributions and improvements to this project are welcome. If you have any ideas for enhancing the app or fixing issues, please feel free to create pull requests or open issues on the project's GitHub repository.
 
-- Thank you for using the Gemini Multi-Mode App! We hope you find it useful and enjoy exploring the capabilities of Gemini AI models.
+## Thank you for using the Gemini Multi-Mode App! We hope you find it useful and enjoy exploring the capabilities of Gemini AI models.
 
 
